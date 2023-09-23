@@ -1,2 +1,2 @@
 # Projetos-aleatorios
- Aqui vou comparttilhar porjetos que achei interressante e usei para aperfeiçoar meu aprendizado.
+ Aqui vou compartilhar projetos que achei interessantes e usei para aperfeiçoar meu aprendizado.
